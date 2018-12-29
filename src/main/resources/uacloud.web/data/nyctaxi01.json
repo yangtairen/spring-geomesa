@@ -1,0 +1,1513 @@
+/* chrome-extension://pkgccpejnmalmdinmhkkfafefagiiiad/json-format/index.html */
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 14483971,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "1066F50D87BD0F9D8DC7D4E469FCE3D4",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.978249,
+                        40.784039
+                    ],
+                    [
+                        -73.865845,
+                        40.691341
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "1066F50D87BD0F9D8DC7D4E469FCE3D4",
+                "hack_license": "F21B45946F64D9368D5BFC3181E2BF90",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:02:00Z",
+                "dropoff_dtg": "2013-01-01T00:41:00Z",
+                "passenger_count": 3,
+                "trip_time_in_secs": 2340,
+                "trip_distance": 18.45
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EB64402E0D86DCFE2298FED39CBD7B0A",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.97506,
+                        40.689308
+                    ],
+                    [
+                        -73.945175,
+                        40.802406
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "EB64402E0D86DCFE2298FED39CBD7B0A",
+                "hack_license": "871B8E8EE60B00564FFB09B90924A025",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:05:00Z",
+                "dropoff_dtg": "2013-01-01T00:33:00Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 1680,
+                "trip_distance": 11.15
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6FE4ED654CCC930CB02221E9AC50CAF2",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.99295,
+                        40.733986
+                    ],
+                    [
+                        -73.968025,
+                        40.680325
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "6FE4ED654CCC930CB02221E9AC50CAF2",
+                "hack_license": "562847F5581EEC46B5044BC9A2755E0E",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:15:29Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 928,
+                "trip_distance": 5.2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "0CEBE42EAF42C338052FAE8D61612C58",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.00975,
+                        40.706432
+                    ],
+                    [
+                        -73.971985,
+                        40.794716
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "0CEBE42EAF42C338052FAE8D61612C58",
+                "hack_license": "CC7A4176549BA819E07D4A0463F87D2E",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:03:00Z",
+                "passenger_count": 4,
+                "trip_time_in_secs": 180,
+                "trip_distance": 1.56
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EBFEEFD12AF5D3944326105CDDB39803",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.005646,
+                        40.726166
+                    ],
+                    [
+                        -73.991371,
+                        40.727367
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "EBFEEFD12AF5D3944326105CDDB39803",
+                "hack_license": "CE475A3E40F64F6276D89DCCF7BB51DB",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:19Z",
+                "dropoff_dtg": "2013-01-01T00:13:58Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 819,
+                "trip_distance": 1.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4707DD250F4F2269CF31DA87314A35DE",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.996132,
+                        40.739567
+                    ],
+                    [
+                        -74.004288,
+                        40.750999
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "4707DD250F4F2269CF31DA87314A35DE",
+                "hack_license": "4E0CF2EFC2B6F83FB8CDC8B49023970A",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:07:00Z",
+                "passenger_count": 3,
+                "trip_time_in_secs": 420,
+                "trip_distance": 1.22
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "95B715EA4F75E724331990880E47CD4C",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.007973,
+                        40.747204
+                    ],
+                    [
+                        -74.007301,
+                        40.738178
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "95B715EA4F75E724331990880E47CD4C",
+                "hack_license": "4414532CAA2AFB705D7B74D4B1EE4918",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:04:00Z",
+                "passenger_count": 6,
+                "trip_time_in_secs": 240,
+                "trip_distance": 0.85
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3D436CD3F76226A6F20C783FBB1C235A",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.951073,
+                        40.778755
+                    ],
+                    [
+                        -73.816467,
+                        40.73904
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "3D436CD3F76226A6F20C783FBB1C235A",
+                "hack_license": "E7869308480393458887DCF97DC47482",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:14:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 840,
+                "trip_distance": 11.16
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1920DC2DE67BFC92C700DAE5A0C80E21",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.9785,
+                        40.741291
+                    ],
+                    [
+                        -73.976997,
+                        40.732452
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "1920DC2DE67BFC92C700DAE5A0C80E21",
+                "hack_license": "6728CFBAFBF5F724562E68EF62D2AE52",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:02Z",
+                "dropoff_dtg": "2013-01-01T00:03:18Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 195,
+                "trip_distance": 0.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "35FA9FA64F220A91237F69304F007F1B",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.989189,
+                        40.741268
+                    ],
+                    [
+                        -73.980125,
+                        40.735119
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "35FA9FA64F220A91237F69304F007F1B",
+                "hack_license": "FECE89B16DF0601CC208B8349BE06A49",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:05:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 300,
+                "trip_distance": 0.83
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "407581443C525006D22C0EB8819E9EC9",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.988976,
+                        40.726913
+                    ],
+                    [
+                        -74.003761,
+                        40.739388
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "407581443C525006D22C0EB8819E9EC9",
+                "hack_license": "5CD83C1C661B40F1FA57BC75EEE23A53",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:08:00Z",
+                "passenger_count": 5,
+                "trip_time_in_secs": 480,
+                "trip_distance": 1.51
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9F9D5320459485DB068306B6D34728AF",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.988739,
+                        40.718876
+                    ],
+                    [
+                        -73.977196,
+                        40.751961
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "9F9D5320459485DB068306B6D34728AF",
+                "hack_license": "5A833F95F987FC2F69F3D6FAA576E696",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:13Z",
+                "dropoff_dtg": "2013-01-01T00:15:00Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 886,
+                "trip_distance": 2.8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E707F2439AABA4204DB570C833F6BF62",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.000221,
+                        40.725468
+                    ],
+                    [
+                        -73.982979,
+                        40.776855
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "E707F2439AABA4204DB570C833F6BF62",
+                "hack_license": "381656D8D52DBF98B46D20A2B951B891",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:20Z",
+                "dropoff_dtg": "2013-01-01T00:18:14Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1073,
+                "trip_distance": 4.4
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3E7DB7D3DC9961BA3A304E5B4B419E5F",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.954117,
+                        40.778343
+                    ],
+                    [
+                        -73.941818,
+                        40.795479
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "3E7DB7D3DC9961BA3A304E5B4B419E5F",
+                "hack_license": "452B322CA3BB3132FF0F59FADAE615D6",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:03:00Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 180,
+                "trip_distance": 1.52
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "4A9DED62DD8EA1E1988C55F7141DC1F7",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.975723,
+                        40.781693
+                    ],
+                    [
+                        -73.969147,
+                        40.760975
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "4A9DED62DD8EA1E1988C55F7141DC1F7",
+                "hack_license": "F4B5F923554A0BB822F26FCB25923D67",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:09:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 540,
+                "trip_distance": 2.14
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6B129E331EDE126B4E9AE336E45F0643",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.973907,
+                        40.747868
+                    ],
+                    [
+                        -73.948898,
+                        40.776649
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "6B129E331EDE126B4E9AE336E45F0643",
+                "hack_license": "79D0A7B682ABC516B837B997968767C8",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:08:00Z",
+                "passenger_count": 5,
+                "trip_time_in_secs": 480,
+                "trip_distance": 2.73
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "76942C3205E17D7E7FE5A9F709D16434",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.955925,
+                        40.781887
+                    ],
+                    [
+                        -73.963181,
+                        40.777832
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "76942C3205E17D7E7FE5A9F709D16434",
+                "hack_license": "25BA06A87905667AA1FE5990E33F0E2E",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:05:00Z",
+                "passenger_count": 3,
+                "trip_time_in_secs": 300,
+                "trip_distance": 0.61
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8B5F45807D8EC24DDFD9A7EDFFAEC138",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.984871,
+                        40.753723
+                    ],
+                    [
+                        -73.983849,
+                        40.754467
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "8B5F45807D8EC24DDFD9A7EDFFAEC138",
+                "hack_license": "577D1B6729EF9014CDBC949554EB4483",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:05:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 300,
+                "trip_distance": 0.06
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9B5BE818E3C04896687FFD3C4BF5555F",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.985603,
+                        40.744263
+                    ],
+                    [
+                        -73.969627,
+                        40.757374
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "9B5BE818E3C04896687FFD3C4BF5555F",
+                "hack_license": "4D85F9862CD0E1675B0946F1A4535B42",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:07:00Z",
+                "passenger_count": 4,
+                "trip_time_in_secs": 420,
+                "trip_distance": 1.49
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "C386A225E08B3D3E94DF7C058744604E",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.987488,
+                        40.760181
+                    ],
+                    [
+                        -73.971207,
+                        40.75803
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "C386A225E08B3D3E94DF7C058744604E",
+                "hack_license": "635AA109F63CDD23F96A0302DB88DB3E",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:13:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 780,
+                "trip_distance": 2.53
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "CA6CD9BAED6A85E430F7BFC0BC84ABD0",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.9701,
+                        40.768005
+                    ],
+                    [
+                        -73.969772,
+                        40.767834
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "CA6CD9BAED6A85E430F7BFC0BC84ABD0",
+                "hack_license": "77FFDF38272A6006517D53EDA14333E2",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:20Z",
+                "dropoff_dtg": "2013-01-01T00:01:22Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 61,
+                "trip_distance": 2.2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E4875E3542BE56CBBF7B5EABC0E7DD37",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.977318,
+                        40.758751
+                    ],
+                    [
+                        -73.971481,
+                        40.752132
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "E4875E3542BE56CBBF7B5EABC0E7DD37",
+                "hack_license": "B7F843BC9199412ABC08DFF4DCBF3E02",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:00:00Z",
+                "dropoff_dtg": "2013-01-01T00:08:00Z",
+                "passenger_count": 5,
+                "trip_time_in_secs": 480,
+                "trip_distance": 0.85
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2404CA20A88E52C69E72322CC0566D31",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.954414,
+                        40.769974
+                    ],
+                    [
+                        -73.953758,
+                        40.682709
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "2404CA20A88E52C69E72322CC0566D31",
+                "hack_license": "B532588661ED6FD13403C3DF91E6E203",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:04:06Z",
+                "dropoff_dtg": "2013-01-01T00:24:58Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1251,
+                "trip_distance": 9.3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5455D5FF2BD94D10B304A15D4B7F2735",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.961655,
+                        40.718403
+                    ],
+                    [
+                        -73.973724,
+                        40.647667
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "5455D5FF2BD94D10B304A15D4B7F2735",
+                "hack_license": "A3797D1CB8DA2F76E30AB5C1DB9D9EA0",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:05:00Z",
+                "dropoff_dtg": "2013-01-01T00:20:00Z",
+                "passenger_count": 6,
+                "trip_time_in_secs": 900,
+                "trip_distance": 8.58
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6488BEDC92CE9FBFF4AB528D6CB359CD",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.782143,
+                        40.644833
+                    ],
+                    [
+                        -73.956398,
+                        40.67503
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "6488BEDC92CE9FBFF4AB528D6CB359CD",
+                "hack_license": "F667D824D3752386133CBD5FFDC8554C",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:03:34Z",
+                "dropoff_dtg": "2013-01-01T00:34:28Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1854,
+                "trip_distance": 13.9
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7896788B80BC3AD1CC9A188414181C92",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.979782,
+                        40.765385
+                    ],
+                    [
+                        -73.961082,
+                        40.684414
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "7896788B80BC3AD1CC9A188414181C92",
+                "hack_license": "8E3865D72C7AEDFDD9F3E12D71FF0495",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:03:20Z",
+                "dropoff_dtg": "2013-01-01T00:30:31Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 1629,
+                "trip_distance": 9.3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "7BB8A299FE111E1166AC8C5D36C37EA1",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.871201,
+                        40.773819
+                    ],
+                    [
+                        -73.942947,
+                        40.664131
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "7BB8A299FE111E1166AC8C5D36C37EA1",
+                "hack_license": "F7EA7B43FFFF107FF8F63A432519D4AC",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:02:00Z",
+                "dropoff_dtg": "2013-01-01T00:30:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1680,
+                "trip_distance": 13.53
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "A93C107C5A6A02D5A32D575A241680BC",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.992043,
+                        40.684555
+                    ],
+                    [
+                        -73.968575,
+                        40.754723
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "A93C107C5A6A02D5A32D575A241680BC",
+                "hack_license": "BD463BABE8703666A35F601945BDD8B2",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:04:36Z",
+                "dropoff_dtg": "2013-01-01T00:19:31Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 894,
+                "trip_distance": 7.2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "F051BFCF7C2F3D875B396377FF865E7C",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.867081,
+                        40.770576
+                    ],
+                    [
+                        -73.994377,
+                        40.690311
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "F051BFCF7C2F3D875B396377FF865E7C",
+                "hack_license": "62E74DD460C91B7CE9DC436098CAECFA",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:05:00Z",
+                "dropoff_dtg": "2013-01-01T00:21:00Z",
+                "passenger_count": 6,
+                "trip_time_in_secs": 960,
+                "trip_distance": 11.84
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "44D1492DE0B46F8FFB783FA16723572C",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.002953,
+                        40.723484
+                    ],
+                    [
+                        -73.932411,
+                        40.683052
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "44D1492DE0B46F8FFB783FA16723572C",
+                "hack_license": "0EEA050819E9998BB4BBDCB47580A302",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:02:10Z",
+                "dropoff_dtg": "2013-01-01T00:20:30Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1099,
+                "trip_distance": 5.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "982C49808E9ABB9D94F1C242A766B5A5",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.999695,
+                        40.728531
+                    ],
+                    [
+                        -73.917343,
+                        40.686813
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "982C49808E9ABB9D94F1C242A766B5A5",
+                "hack_license": "E4233F974521A95445667749E8EBFC09",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "Y",
+                "pickup_dtg": "2013-01-01T00:02:55Z",
+                "dropoff_dtg": "2013-01-01T00:25:04Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1328,
+                "trip_distance": 5.8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "F6D3816AA5A0C24DE107AC490013796F",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.980911,
+                        40.689034
+                    ],
+                    [
+                        -73.97007,
+                        40.68911
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "F6D3816AA5A0C24DE107AC490013796F",
+                "hack_license": "C366E9008ABFBF7048C64B54A6259549",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:03:00Z",
+                "dropoff_dtg": "2013-01-01T00:08:00Z",
+                "passenger_count": 6,
+                "trip_time_in_secs": 300,
+                "trip_distance": 1.37
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "17BAE7C2A38C54CBC82BC2618A0397AC",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.983688,
+                        40.694859
+                    ],
+                    [
+                        -73.953568,
+                        40.682178
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "17BAE7C2A38C54CBC82BC2618A0397AC",
+                "hack_license": "5998516E315C3E1D1BB8B53C4ED17E82",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:05:00Z",
+                "dropoff_dtg": "2013-01-01T00:18:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 780,
+                "trip_distance": 3.02
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "8944236472A7D7EC074E7CA9BB7579AF",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.972618,
+                        40.693302
+                    ],
+                    [
+                        -73.936577,
+                        40.700996
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "8944236472A7D7EC074E7CA9BB7579AF",
+                "hack_license": "259239DC71BA051F723AE4B90EFD9FE4",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:04:00Z",
+                "dropoff_dtg": "2013-01-01T00:17:00Z",
+                "passenger_count": 5,
+                "trip_time_in_secs": 780,
+                "trip_distance": 2.54
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "FC62A335F86B0182AEF9A079BA835026",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.968117,
+                        40.800705
+                    ],
+                    [
+                        -74.008743,
+                        40.716198
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "FC62A335F86B0182AEF9A079BA835026",
+                "hack_license": "0D6016D8F3FBDDE5B99978AE0E7F76B0",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:04:16Z",
+                "dropoff_dtg": "2013-01-01T00:22:25Z",
+                "passenger_count": 3,
+                "trip_time_in_secs": 1088,
+                "trip_distance": 7.4
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "091334CDF9A2292C04B6AF20AC219660",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.006386,
+                        40.739594
+                    ],
+                    [
+                        -74.008965,
+                        40.715763
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "091334CDF9A2292C04B6AF20AC219660",
+                "hack_license": "71919908DE1B5755C5544416E98F385E",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:02:00Z",
+                "dropoff_dtg": "2013-01-01T00:12:00Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 600,
+                "trip_distance": 1.93
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6C04634A9482DAF6D72A6D6142034704",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.012085,
+                        40.707443
+                    ],
+                    [
+                        -74.006233,
+                        40.714325
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "6C04634A9482DAF6D72A6D6142034704",
+                "hack_license": "3C179F8593A900D2D00AA3A351AF807F",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:01:57Z",
+                "dropoff_dtg": "2013-01-01T00:07:43Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 346,
+                "trip_distance": 1.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "83BD668AFDB571C027D4797143F078EF",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.001671,
+                        40.729378
+                    ],
+                    [
+                        -74.006889,
+                        40.705479
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "83BD668AFDB571C027D4797143F078EF",
+                "hack_license": "4B51D17BBCD954BB61823554C584C300",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:00:49Z",
+                "dropoff_dtg": "2013-01-01T00:10:44Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 595,
+                "trip_distance": 2.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "C2A9590497AB33E55B5F372A76FD8099",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.004341,
+                        40.752705
+                    ],
+                    [
+                        -74.01265,
+                        40.704105
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "C2A9590497AB33E55B5F372A76FD8099",
+                "hack_license": "9D5E9537612AE13EA9E3AF2198648EFB",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:03:05Z",
+                "dropoff_dtg": "2013-01-01T00:16:51Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 826,
+                "trip_distance": 3.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "C2CC6974139726D64CBBC5860B0FBB64",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.987648,
+                        40.752216
+                    ],
+                    [
+                        -74.005074,
+                        40.708946
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "C2CC6974139726D64CBBC5860B0FBB64",
+                "hack_license": "B622FCDE62074BDECEE47B6AD23D9BF8",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:03:00Z",
+                "dropoff_dtg": "2013-01-01T00:25:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1320,
+                "trip_distance": 4.13
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "EE75E5927D00739AC342810C336A825E",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.001282,
+                        40.727695
+                    ],
+                    [
+                        -74.013763,
+                        40.7024
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "EE75E5927D00739AC342810C336A825E",
+                "hack_license": "A978D590750EE72AE3F9A76C90271EA3",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "Y",
+                "pickup_dtg": "2013-01-01T00:02:17Z",
+                "dropoff_dtg": "2013-01-01T00:11:15Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 537,
+                "trip_distance": 2.3
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "C1C47EE5361C105CD2042F732806EF21",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.004333,
+                        40.738029
+                    ],
+                    [
+                        -73.984482,
+                        40.775627
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "C1C47EE5361C105CD2042F732806EF21",
+                "hack_license": "1D2F2B5913CA2D2DA82F688DA3F4D9A2",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:02:44Z",
+                "dropoff_dtg": "2013-01-01T00:15:23Z",
+                "passenger_count": 2,
+                "trip_time_in_secs": 758,
+                "trip_distance": 3.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "D2A54CCEA77527E69E6C65125CACD01D",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.988487,
+                        40.752254
+                    ],
+                    [
+                        -74.005325,
+                        40.740208
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "D2A54CCEA77527E69E6C65125CACD01D",
+                "hack_license": "9AE15B25337408ED736F068F99E562C5",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:02:20Z",
+                "dropoff_dtg": "2013-01-01T00:14:31Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 731,
+                "trip_distance": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "F39166B8B6FBB1781B8C07D679CE3FE3",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.005692,
+                        40.740349
+                    ],
+                    [
+                        -73.994606,
+                        40.750492
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "F39166B8B6FBB1781B8C07D679CE3FE3",
+                "hack_license": "8EBD8E2C4B26F2DBA2CE8C75EF2A7EAA",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:01:58Z",
+                "dropoff_dtg": "2013-01-01T00:12:23Z",
+                "passenger_count": 3,
+                "trip_time_in_secs": 625,
+                "trip_distance": 1.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "06A38297515E1320AE12B85258FA27B6",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.979141,
+                        40.752701
+                    ],
+                    [
+                        -74.009842,
+                        40.709457
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "06A38297515E1320AE12B85258FA27B6",
+                "hack_license": "65E29A11B712F9EE8A7AB467E4BD8FF2",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:05:00Z",
+                "dropoff_dtg": "2013-01-01T00:17:00Z",
+                "passenger_count": 6,
+                "trip_time_in_secs": 720,
+                "trip_distance": 5.43
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "19BFCB272D5AC1AF0B79E068D213BB7B",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.996834,
+                        40.731876
+                    ],
+                    [
+                        -74.007927,
+                        40.73777
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "19BFCB272D5AC1AF0B79E068D213BB7B",
+                "hack_license": "C4B62F0697BC53B9859CD87B151B6BB1",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:05:27Z",
+                "dropoff_dtg": "2013-01-01T00:12:42Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 434,
+                "trip_distance": 1.1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3D40216BE1D19480CD1DA4ECB76E00E8",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.989594,
+                        40.75312
+                    ],
+                    [
+                        -74.007133,
+                        40.708748
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "3D40216BE1D19480CD1DA4ECB76E00E8",
+                "hack_license": "DA789EC573147E9C9372964F8C4B5019",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:03:42Z",
+                "dropoff_dtg": "2013-01-01T00:24:27Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 1245,
+                "trip_distance": 5.8
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "723CF4D42C953299AF3FA8C6EADCF98B",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.007813,
+                        40.740276
+                    ],
+                    [
+                        -73.992264,
+                        40.734554
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "723CF4D42C953299AF3FA8C6EADCF98B",
+                "hack_license": "E2786AAE5D8E064CDB40032C55D94A9A",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:04:00Z",
+                "dropoff_dtg": "2013-01-01T00:12:00Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 480,
+                "trip_distance": 1.21
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "95B715EA4F75E724331990880E47CD4C",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -74.008369,
+                        40.738194
+                    ],
+                    [
+                        -73.999939,
+                        40.734734
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "95B715EA4F75E724331990880E47CD4C",
+                "hack_license": "4414532CAA2AFB705D7B74D4B1EE4918",
+                "vender_id": "VTS",
+                "rate_code": 1,
+                "store_and_fwd_flag": "",
+                "pickup_dtg": "2013-01-01T00:05:00Z",
+                "dropoff_dtg": "2013-01-01T00:10:00Z",
+                "passenger_count": 6,
+                "trip_time_in_secs": 300,
+                "trip_distance": 0.86
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AFD69268BF0112E72526E76E328784D2",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -73.986847,
+                        40.733078
+                    ],
+                    [
+                        -74.00927,
+                        40.71653
+                    ]
+                ]
+            },
+            "geometry_name": "pickup_dropoff",
+            "properties": {
+                "medallion": "AFD69268BF0112E72526E76E328784D2",
+                "hack_license": "C919A4115A7BD44441465D6C0631F614",
+                "vender_id": "CMT",
+                "rate_code": 1,
+                "store_and_fwd_flag": "N",
+                "pickup_dtg": "2013-01-01T00:04:34Z",
+                "dropoff_dtg": "2013-01-01T00:15:13Z",
+                "passenger_count": 1,
+                "trip_time_in_secs": 638,
+                "trip_distance": 2.2
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

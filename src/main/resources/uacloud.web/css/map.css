@@ -1,0 +1,22 @@
+/*弹出窗口*/
+.mapboxgl-popup {
+    max-width: 600px;
+    /*容许最大宽度*/
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    /*保证一个字体能被调用*/
+}
+
+/*标记设置*/
+.marker {
+    background-image: url('../image/mapbox-icon.png');
+    background-size: cover;	/*完全覆盖*/
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;		/*边角平滑*/
+    cursor: pointer;		/*鼠标变成手*/
+}
+
